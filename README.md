@@ -2,6 +2,6 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Laravel | Ruby on Rails | Node/Express
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Redux
+- 🌐 &nbsp; HTML | CSS | Bootstrap | ES6 | ReactJS | Redux
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
-- 🔧 &nbsp; Git | Markdown | RSpec
+- 🔧 &nbsp; Git | Markdown | RSpec | Heroku | SEO
