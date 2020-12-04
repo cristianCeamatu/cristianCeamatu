@@ -4,4 +4,4 @@
 - 💻 &nbsp; Laravel | Ruby on Rails | Node/Express
 - 🌐 &nbsp; HTML | CSS | Bootstrap | ES6 | ReactJS | Redux
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
-- 🔧 &nbsp; Git | Markdown | RSpec | Heroku | SEO
+- 🔧 &nbsp; Git | Markdown | RSpec | Heroku | AWS S3 | SEO
